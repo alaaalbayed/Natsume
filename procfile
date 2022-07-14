@@ -1,1 +1,1 @@
-worker: node Natsume.js
+web: node Natsume.js
